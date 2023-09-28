@@ -1,3 +1,9 @@
+# json-server ve axios kurulum
+yeni bir terminal açıp (npm install -g json-server) komutu çalıştırın.
+portu şu şekilde (json-server --watch api/db.json --port 3004) 3004e çekin
+ardından yeni bir terminal daha açın ve axios komutunu çalıştırın.(npm install axios)
+bu işlemlerden sonra projeyi çalıştırın.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
